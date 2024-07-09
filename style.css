@@ -1,0 +1,25 @@
+.onda {
+    width: 1423px;
+    height: 450px;
+}
+
+#primeiraDiv {
+    width: 500px;
+    margin: 20px;
+}
+
+.oi {
+    width: 250px;
+    height: 200px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+#pro  {
+    display: flex;
+    gap: 50px;
+}
+
+#one{
+    width: 250px;
+    height:200px;
+}
